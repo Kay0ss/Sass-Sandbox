@@ -1,0 +1,10 @@
+
+
+@import './header';
+@import './variables';
+
+.contact {
+    @extend header;
+    width: 60% + 20%;
+    background-color: lightskyblue;
+}
